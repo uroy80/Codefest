@@ -1,4 +1,4 @@
-# Self-Service Data Tokenization Platform - Execution Plan
+# Self-Service Data Tokenization Platform 
 
 ## Introduction
 With the increasing risk of data breaches and stricter compliance regulations, organizations need a **secure, scalable, and automated** way to protect sensitive information. This project aims to build a **Self-Service Data Tokenization Platform** that replaces sensitive data with non-sensitive tokens while maintaining usability for analytics and processing.
@@ -135,5 +135,17 @@ By implementing this execution plan, your **Self-Service Data Tokenization Platf
 🔹 **Prepare a hackathon demo to showcase live tokenization in action!**  
 
 ---
+
+
+
+## Commands
+
+(1) python data_tokenization.py
+(2) sqlite3 tokenized_data.db "SELECT * FROM tokens;"
+(3) JSON ->
+    {
+    "data": "Usham Roy lives in Chennai . His phone number is 7001989183 and his email is ur3349@srmist.edu.in ."
+    }
+
 
 Halla Team Kiwi!!
