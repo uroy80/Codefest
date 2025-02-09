@@ -153,4 +153,6 @@ By implementing this execution plan, your **Self-Service Data Tokenization Platf
 
 (4) streamlit run app.py    ---> Admin Token Viewer
 
+(5) Delete all data's ----> sqlite3 tokenized_data.db "DELETE FROM tokens;"
+
 Halla Team Kiwi!!
