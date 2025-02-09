@@ -151,5 +151,6 @@ By implementing this execution plan, your **Self-Service Data Tokenization Platf
     "data": "Usham Roy lives in Chennai . His phone number is 7001989183 and his email is ur3349@srmist.edu.in ."
     }
 
+(4) streamlit run app.py    ---> Admin Token Viewer
 
 Halla Team Kiwi!!
