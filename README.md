@@ -141,7 +141,11 @@ By implementing this execution plan, your **Self-Service Data Tokenization Platf
 ## Commands
 
 (1) python data_tokenization.py
+
+
 (2) sqlite3 tokenized_data.db "SELECT * FROM tokens;"
+
+
 (3) JSON ->
     {
     "data": "Usham Roy lives in Chennai . His phone number is 7001989183 and his email is ur3349@srmist.edu.in ."
