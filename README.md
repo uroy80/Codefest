@@ -155,4 +155,9 @@ By implementing this execution plan, your **Self-Service Data Tokenization Platf
 
 (5) Delete all data's ----> sqlite3 tokenized_data.db "DELETE FROM tokens;"
 
+(6) sqlite3 users.db     --->    .tables    --->   SELECT * FROM users;
+
+
+
+
 Halla Team Kiwi!!
